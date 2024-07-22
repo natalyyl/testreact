@@ -12,7 +12,7 @@ export default function App() {
         </p>
       </div>
       <div class= "img">
-        <textarea class="bloco"></textarea>
+        <textarea></textarea>
       </div>
     </body>
        
