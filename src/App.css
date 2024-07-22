@@ -6,9 +6,11 @@
   background-attachment: fixed;
   background-position: -1;
 };
-.bloco{
-  color: #d653699a;
-  width: 80px;
+.bloco .textarea{
+  border-radius: 15px;
+  border-color: #d653699a;
+  text-decoration-color:  #d65369;
+  width: 70%;
 };
 .img{
   background-attachment: fixed;

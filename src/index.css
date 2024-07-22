@@ -4,4 +4,6 @@ body {
   background-image: url(https://cdn.discordapp.com/attachments/1224725255231242301/1264952123465011270/IMG_20240627_082839_697.webp?ex=669fbdf7&is=669e6c77&hm=fcce3d58c52025c98f4c7c1e92dc8d36ed7a0215e7a9975b6645f3a1d0a74817&);
   background-size: cover;
   background-position: center;
+  justify-content: center;
+  align-items: center;
 }
