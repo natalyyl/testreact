@@ -1,10 +1,12 @@
 .App {
   text-align: center;
+  color: aliceblue;
 };
 .color-img{
   background-color: #a54df867;
   background-attachment: fixed;
   background-position: -1;
+  align-items: center
 };
 textarea{
   border-radius: 15px;
